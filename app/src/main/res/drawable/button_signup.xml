@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:targetApi="lollipop">
+    <item>
+        <shape android:shape="rectangle"
+            >
+
+
+            <corners
+                android:radius="100dp"/>
+
+
+            <solid android:color="#E4061D72" />
+
+            <stroke android:width="5px" android:color="#F1EFE9" />
+
+
+        </shape>
+
+    </item>
+
+
+</selector>
